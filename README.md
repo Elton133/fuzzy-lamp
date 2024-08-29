@@ -19,7 +19,7 @@ This is a basic contact page built using only HTML and CSS. The page allows user
 
 Here's a quick overview of how the form looks:
 
-![Contact Page Screenshot](path/to/screenshot.png)
+![Contact Page Screenshot]("C:\Users\USER\Pictures\Screenshots\Screenshot 2024-08-29 153136.png")
 
 ## Getting Started
 
