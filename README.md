@@ -62,6 +62,3 @@ To use the contact form:
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request. Improvements, additional features, or enhancements are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
