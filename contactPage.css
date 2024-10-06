@@ -2,7 +2,9 @@ html{
     font-family: 'Fredoka', sans-serif;
 }
 body{
-    background: linear-gradient(rgb(1, 8, 105),rgb(2, 6, 39));
+    /* background: linear-gradient(rgba(51, 101, 138),rgb(47, 72, 88)); */
+    /* background: linear-gradient(rgb(1, 8, 105),rgb(2, 6, 39)); */
+    background-color: rgb(47, 72, 88);
     display: flex;
 	justify-content: center;
     align-items: center;
@@ -17,7 +19,7 @@ body{
     border-radius: 20px;
     width: 100%;
     max-width: 600px; 
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
 
 }
 
@@ -55,15 +57,15 @@ body{
   font-size: 16px;
 }
 button{
-   padding: 10px 25px;
+   padding: 5px 15px;
    cursor: pointer;
    display: block;
    align-self: center;
    margin-top: 20px;
-   border-radius: 13px;
+   border-radius: 10px;
 }
 button:hover{
     background-color: white;
     transform: scale(1.01);
-	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 5px 25px rgba(0, 0, 0, 0.3);
 }
